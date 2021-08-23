@@ -1,0 +1,5 @@
+name: one-day-one-gif
+recipe: symfony
+config:
+  webroot: public
+  database: mariadb
